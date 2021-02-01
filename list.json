@@ -1,0 +1,77 @@
+{
+    "list":[
+        {
+            
+            "Name":"Potato",
+            "Quantity":"3",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"nil"
+        },
+        {
+            
+            "Name":"Tomato",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Organic"
+        },
+        {
+            
+            "Name":"Noodles",
+            "Quantity":"5",
+            "Unit":"Packet",
+            "Department":"Food",
+            "Notes":"Yippie"
+        },
+        {
+            
+            "Name":"Apple",
+            "Quantity":"2.5",
+            "Unit":"kg",
+            "Department":"Food",
+            "Notes":"Organic"
+        },
+        {
+            
+            "Name":"Pencil",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Apsara"
+        },
+        {
+            
+            "Name":"Pen",
+            "Quantity":"3",
+            "Unit":"Number",
+            "Department":"Stationary",
+            "Notes":"Lexi"
+        },
+      
+        {
+            
+            "Name":"Hand Sanitiser",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Pocket Friendly"
+        },
+        {
+            
+            "Name":"Soap",
+            "Quantity":"5",
+            "Unit":"Number",
+            "Department":"Health",
+            "Notes":"Dove"
+        },
+        {
+            
+            "Name":"Toilet cleaner",
+            "Quantity":"2",
+            "Unit":"li",
+            "Department":"Health",
+            "Notes":"Harpic"
+        }
+    ]
+}
